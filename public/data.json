@@ -1,0 +1,55 @@
+{
+    "products":[
+    {
+        "id": "1",
+        "name":"Phone",
+        "price": 300000,
+        "image": "/img3.png"
+    },
+    {
+        "id": "2",
+        "name":"Hp Laptop",
+        "price": 100000,
+        "image": "/img7.png"
+    },
+    {
+        "id": "3",
+        "name":"Wrist Watch",
+        "price": 20000,
+        "image": "/img8.png"
+    },
+    {
+        "id": "4",
+        "name":"Headphone",
+        "price": 50000,
+        "image": "/img9.png"
+    },
+    {
+        "id": "5",
+        "name":"Laptop2",
+        "price": 100000,
+        "image": "/img7.png"
+    },
+   
+    {
+        "id": "6",
+        "name":"Samsung",
+        "price": 300000,
+        "image": "/img3.png"
+    },
+    {
+        "id": "7",
+        "name":"Dell",
+        "price": 50000,
+        "image": "/img7.png"
+    },
+  
+    {
+        "id": "8",
+        "name":"Watch for men",
+        "price": 20000,
+        "image": "/img8.png"
+    }
+    
+]
+}
