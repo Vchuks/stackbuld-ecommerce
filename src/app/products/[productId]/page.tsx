@@ -177,7 +177,7 @@ const EachProduct = ({
                 {/* Add to Cart Button */}
                 <button
                   onClick={handleAddToCart}
-                  className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg hover:bg-blue-700 transition-colors flex items-center justify-center gap-2 font-semibold"
+                  className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg hover:bg-blue-700 transition-colors flex items-center cursor-pointer justify-center gap-2 font-semibold"
                 >
                   <ShoppingCart className="h-5 w-5" />
                   Add to Cart

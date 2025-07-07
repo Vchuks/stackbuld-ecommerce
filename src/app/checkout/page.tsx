@@ -57,7 +57,7 @@ const CheckoutPage = () => {
       <div className="flex justify-center mt-8">
         <button
           onClick={handleOrder}
-          className="md:w-2/5 py-3 px-3 rounded-xl bg-blue-600 font-bold text-white"
+          className="md:w-2/5 cursor-pointer py-3 px-3 rounded-xl bg-blue-600 font-bold text-white"
         >
           Place your Order
         </button>
